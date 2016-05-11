@@ -3,3 +3,4 @@
  */
 var a="hello"
 var b;
+console.log("ruhi");
